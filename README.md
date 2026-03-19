@@ -1,1 +1,0 @@
-Collaborative robotics project

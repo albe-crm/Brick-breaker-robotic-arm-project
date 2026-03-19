@@ -1,0 +1,4 @@
+Legend of data:
+
+1st col : rawData from Arduino (0-100)
+2nd col : 0 = none , 1 = gentle , 2 = strong
